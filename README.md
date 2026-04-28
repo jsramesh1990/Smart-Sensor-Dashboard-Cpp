@@ -1,4 +1,4 @@
-# Smart Sensor Dashboard - C++ Project Flow
+# Smart Sensor Dashboard
 
 ##  **Complete Project Flow Diagram**
 
