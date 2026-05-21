@@ -130,7 +130,7 @@ std::string printSensor(const SensorPacket& sensor) {
             break;
             
         default:
-            result << "❌ Unknown sensor type";
+            result << " Unknown sensor type";
     }
     
     // Use return to exit function with formatted string
